@@ -16,13 +16,13 @@ Linda, lead data scientist, vous demande donc d'étudier la faisabilité d'un mo
 - Ce projet est découpé en 2 grosses parties : Partie NLP & Partie Computer Vision
 
 ## Key point du projet :
-Preprocessing & Vectorization du corpus (création d'un Bag of Word avec NLTK)
-Réduction dimensionnelle (PCA)
-Clustering (Kmeans, Clustering hiérarchique) et mesure de qualité des clusters avec le coefficient de silhouette
-Mesure de similarité entre du Clustering via Indice de Rand Ajusté (ARI)
-Preprocessing des images et création d'un Bag of Visual Word (BOVW) via l'algorithme ORB
-Partie Deep Learning : Transfer Learning sur VGG16 (CNN)
-Stacking de l'approche NLP & Computer Vision et création de features puis utilisation d'une RandomForest
+- Preprocessing & Vectorization du corpus (création d'un Bag of Word avec NLTK)
+- Réduction dimensionnelle (PCA)
+- Clustering (Kmeans, Clustering hiérarchique) et mesure de qualité des clusters avec le coefficient de silhouette
+- Mesure de similarité entre du Clustering via Indice de Rand Ajusté (ARI)
+- Preprocessing des images et création d'un Bag of Visual Word (BOVW) via l'algorithme ORB
+- Partie Deep Learning : Transfer Learning sur VGG16 (CNN)
+- Stacking de l'approche NLP & Computer Vision et création de features puis utilisation d'une RandomForest
 
 ## Livrables :
 - Notebooks contenant les fonctions permettant le prétraitement des données textes et images ainsi que les résultats du clustering (en y incluant des représentations graphiques au besoin).
