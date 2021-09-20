@@ -1,4 +1,4 @@
-# Projet : Segmentez des clients d'un site e-commerce
+# Projet : Classifiez automatiquement des biens de consommation
 
 **Autor :** Amandine LECERF DEFER
 
