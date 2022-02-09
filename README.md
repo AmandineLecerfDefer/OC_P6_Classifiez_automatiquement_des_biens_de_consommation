@@ -6,6 +6,12 @@
 
 **Durée totale :** 100 heures
 
+Si vous avez des difficultés à voir le contenu des notebooks, vous pouvez les retrouvez ici :
+[Analyse Description](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_01_NLP.ipynb)
+[Analyse Image](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_02_Pictures.ipynb)
+[Analyse Description + Image]()
+
+
 ## Background du projet :
 Vous êtes Data Scientist au sein de l’entreprise "Place de marché”, qui souhaite lancer une marketplace e-commerce.
 Sur la place de marché, des vendeurs proposent des articles à des acheteurs en postant une photo et une description.
