@@ -7,9 +7,9 @@
 **Durée totale :** 100 heures
 
 Si vous avez des difficultés à voir le contenu des notebooks, vous pouvez les retrouvez ici :
-[Analyse Description](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_01_NLP.ipynb)
-[Analyse Image](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_02_Pictures.ipynb)
-[Analyse Description + Image]()
+[Analyse Description](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_01_NLP.ipynb),
+[Analyse Image](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_02_Pictures.ipynb),
+[Analyse Description + Image](https://nbviewer.org/github/AmandineLecerfDefer/RNCP_DS_OC_P6_Classifiez_automatiquement_des_biens_de_consommation/blob/main/P6_03_NLP_and_Pictures.ipynb)
 
 
 ## Background du projet :
